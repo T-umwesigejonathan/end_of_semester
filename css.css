@@ -790,7 +790,7 @@ color: #333;
   
 .hero-image {
 position: relative;
-background-image: url('mabale images/hospital2'); 
+background-image: url('mabaleimages/hospital2'); 
 background-size: cover;
 background-position: center;
 height: 400px;
@@ -910,7 +910,7 @@ margin-top: 5px;
 
 .hero-image {
 position: relative;
-background-image: url('mabale images/hospital2'); 
+background-image: url('mabaleimages/hospital2'); 
 background-size: cover;
 background-position: center;
 height: 710px;
